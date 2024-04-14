@@ -1,6 +1,3 @@
-# Recovery_RZ
-Recovery RAR &amp; ZIP Damaged or Ransomware (encryptor header)
-
 ## Author
 Developed by Vu Quang Dai <BSVRecovery.vn@gmail.com>
 
