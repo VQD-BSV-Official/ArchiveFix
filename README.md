@@ -11,6 +11,5 @@ Watch video [here](https://youtu.be/qqOTpNvL2yo)
 
 
 
-## Donation
-If this software helped you please consider donating [here](https://www.Paypal.me/BSVPay) or  BIDV: 63110001165789 !\
-Donations will encourage me to keep working on this software,To develop more tools, leading to more media being supported and better recovered files.
+## 💰You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BSVPay)
