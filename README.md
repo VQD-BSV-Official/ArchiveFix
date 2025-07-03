@@ -1,4 +1,4 @@
-## ***Developed by Vũ Quang Đại / <BSVRecovery.vn@gmail.com>***
+## ***Developed by Vũ Quang Đại / <QuangDaiVQD@gmail.com>***
 Recover archives containing important documents. Repairing corrupt headers has little effect on the files inside, while fragmented files cause more file loss and corruption. I learned from the sources: [WinRAR](https://www.rarlab.com/), [Zip2Fix](http://leelusoft.altervista.org/zip2fix.html)
 ## Usage
 ```sh
